@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Lede Build
+name: guangwang
 
 on:
   repository_dispatch:
